@@ -1,17 +1,17 @@
-**<h1>Introduction</h1>**
+<h1>Introduction</h1>
 
 INTUZ is presenting a custom Firebase Phone Authentication in Android,Just go through this tutorial and you will be good to go.
 
 <br>
-**<h1>Features</h1>**
-* Ability to customize according to your requirement.
-* Ability send sms and auto read code, Also you can resend the code if sms is not delivered on time.
-* Easy to integrate
+<h1>Features</h1>
+- Ability to customize according to your requirement.
+- Ability send sms and auto read code, Also you can resend the code if sms is not delivered on time.
+- Easy to integrate
 
 <br>
 <img src="Screenshots/firebase_auth_android.gif" width=500 alt="Screenshots/firebase_auth_android.png">
 
-**<h1>Getting Started</h1>**
+<h1>Getting Started</h1>
 
 1. Setup your app in firebase console at: https://console.firebase.google.com/
 1. Add your SHA-1 key in firebase console.
@@ -85,12 +85,12 @@ INTUZ is presenting a custom Firebase Phone Authentication in Android,Just go th
 
 
 
-**<h1>Bugs and Feedback</h1>**
+<h1>Bugs and Feedback</h1>
 
 For bugs, questions and discussions please use the Github Issues.
 
 <br>
-**<h1>License</h1>**
+<h1>License</h1>
 
 Copyright (c) 2018 Intuz Solutions Pvt Ltd.
 <br><br>
@@ -98,7 +98,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 <br><br>
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**<h1></h1>**
+<h1></h1>
 <a href="http://www.intuz.com">
 <img src="Screenshots/logo.jpg">
 </a>
