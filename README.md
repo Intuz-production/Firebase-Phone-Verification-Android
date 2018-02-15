@@ -4,6 +4,7 @@ INTUZ is presenting a custom Firebase Phone Authentication in Android,Just go th
 
 <br>
 <h1>Features</h1>
+
 - Ability to customize according to your requirement.
 - Ability send sms and auto read code, Also you can resend the code if sms is not delivered on time.
 - Easy to integrate
