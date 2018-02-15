@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="etDigits">
+        <item name="android:layout_width">@dimen/digit_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:digits">0123456789</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:inputType">number</item>
+        <item name="android:maxLength">1</item>
+        <item name="android:hint">-</item>
+        <item name="android:textColorHint">@color/colorPrimary</item>
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:textCursorDrawable">@drawable/cursor</item>
+    </style>
+</resources>

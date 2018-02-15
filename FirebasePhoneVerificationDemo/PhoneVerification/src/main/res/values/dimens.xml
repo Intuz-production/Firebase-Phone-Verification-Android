@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="google_1x">8dp</dimen>
+    <dimen name="fast_scroll_overlay_text_size">100dp</dimen>
+    <dimen name="digit_width">40dp</dimen>
+</resources>

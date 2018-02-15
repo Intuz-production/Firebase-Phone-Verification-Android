@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebasePhoneVerificationDemo</string>
+    <string name="mobile_verification_fails">Mobile Number verification fails.</string>
+
+</resources>
