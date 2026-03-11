@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [Android app development](https://www.intuz.com/android-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
 
 INTUZ is presenting a custom Firebase Phone Authentication in Android,Just go through this tutorial and you will be good to go.
 
